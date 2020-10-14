@@ -1,0 +1,32 @@
+@media screen and (max-width:1200px){
+    .icons-met {
+        padding: 0px 11px;
+    }
+    .card .product-image{
+        min-height:566px;
+    }
+    .social-link ul li{
+        margin-right:5px;
+    }
+}
+@media screen and (max-width:991px){
+    .hero-text{
+        text-align:center;
+        padding:60px 0;
+    }
+    .hero-image{
+        text-align:center !important;
+        padding:60px 0;
+    }
+    .design-part{
+        padding:60px 0;
+    }
+    .music-text{
+        text-align:center;
+    }
+}
+@media screen and (max-width:768px){
+    .blog-time span{
+        padding:0 10px;
+    }
+}
